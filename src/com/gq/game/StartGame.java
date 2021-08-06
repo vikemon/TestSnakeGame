@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class StartGame {
+
     public static void main(String[] args) {
         JFrame jf = new JFrame();
         jf.setTitle("贪吃蛇");
@@ -25,8 +26,5 @@ public class StartGame {
 
         //显示
         jf.setVisible(true);
-
-
-
     }
 }
