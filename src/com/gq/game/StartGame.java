@@ -26,5 +26,6 @@ public class StartGame {
 
         //显示
         jf.setVisible(true);
+
     }
 }
