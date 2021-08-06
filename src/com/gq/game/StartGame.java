@@ -8,7 +8,6 @@ public class StartGame {
     public static void main(String[] args) {
 
         JFrame jf = new JFrame();
-        //标题
         jf.setTitle("贪吃蛇");
 
         //得到屏幕的大小
